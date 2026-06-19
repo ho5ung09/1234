@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-game-bg: #020d1a;
+  --color-panel-bg: #041b2d;
+  --color-panel-border: #1e4a6d;
+  --color-text-primary: #a0e9ff;
+  --color-accent-blue: #4fc3f7;
+  --color-accent-green: #00ffcc;
+  --color-accent-alert: #ff3d00;
+  --color-accent-life: #00e676;
+}

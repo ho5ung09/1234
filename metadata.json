@@ -1,0 +1,6 @@
+{
+  "name": "EcoBot Ocean Cleaner",
+  "description": "An AI-powered oceanic cleaning robot game that uses WASD controls to detect marine waste, safeguard aquatic life, and recycles debris with AI analysis logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
